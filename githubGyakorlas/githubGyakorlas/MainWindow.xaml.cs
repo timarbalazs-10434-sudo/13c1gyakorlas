@@ -20,5 +20,10 @@ namespace githubGyakorlas
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Gomg 1 clicked");
+        }
     }
 }
