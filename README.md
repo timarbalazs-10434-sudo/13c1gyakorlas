@@ -10,3 +10,6 @@ print("Hello World")
 |------|-----|
 | Alice | 24 |
 | Bob | 30 |
+
+- [x] Completed task
+- [ ] Incomplete task
