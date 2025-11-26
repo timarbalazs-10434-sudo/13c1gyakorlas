@@ -1,2 +1,4 @@
-# 13c1gyakorlas
-yo
+## 13c1gyakorlas
+#yo
+
+- alma
