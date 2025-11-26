@@ -6,3 +6,7 @@
 ```python
 print("Hello World")
 ```
+| Name | Age |
+|------|-----|
+| Alice | 24 |
+| Bob | 30 |
